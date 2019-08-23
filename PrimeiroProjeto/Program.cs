@@ -7,8 +7,9 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello mundo!");
+            Console.WriteLine("Hello terra!");
 
-            
+
         }
     }
 }
