@@ -6,7 +6,7 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Aspira!");
+            Console.WriteLine("Hello mundo!");
 
             
         }
